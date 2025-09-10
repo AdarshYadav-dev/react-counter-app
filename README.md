@@ -5,22 +5,22 @@ Increment, decrement, and reset functionality with a sleek UI and responsive des
 
 ---
 
-##  Features
--  Increment count  
--  Decrement count  
--  Reset to zero  
--  Center-aligned layout with gradient background and hover effects
+## Features
+- Increment count  
+- Decrement count  
+- Reset to zero  
+- Center-aligned layout with gradient background and hover effects  
+- **SCSS used for styling with variables & nesting for better maintainability**
 
 ---
 
-##  Demo Screenshot
+## Demo Screenshot
 
 <img width="1920" height="959" alt="image" src="https://github.com/user-attachments/assets/0ebdca77-81c2-49fc-8f30-5cbacb3e5bee" />
 
-
 ---
 
-##  Installation & Usage
+## Installation & Usage
 ```bash
 # Clone the repo
 git clone https://github.com/AdarshYadav-dev/react-counter-app.git
